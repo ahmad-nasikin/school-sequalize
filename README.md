@@ -1,1 +1,1 @@
-# school-sequalize
+ize seed:se# school-sequalize
